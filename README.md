@@ -36,8 +36,11 @@ The deadline that all work are put on this platform may be long.
 
 
 Map_Matching_Version1.m是主函数
+
 DivideDistrict.m和dis_node.m是里面调用的函数，可以不用考虑
-SubRN.mat是将是北京市的路网分成9个小块的，方便搜索。路网非常大，都到区县了。
-test_gps是gps数据，因为保密性，只提供2000个point。
+
+SubRN.mat是将是分成9个小块的北京市路网，方便搜索。路网非常大，都到区县了(代码里对每一列的数据类型都有详细介绍)。
+
+test_gps.mat是gps数据，因为保密性，只提供2000个point(代码里对每一列的数据类型都有详细介绍)。
 
 如果有问题，请联系qq：1040515761@qq.com
